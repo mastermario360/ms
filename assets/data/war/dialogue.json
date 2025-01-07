@@ -1,0 +1,67 @@
+{
+  "dialogue": [
+    {
+      "speed": 0.05,
+      "portrait": "mmecha",
+      "boxState": "mmecha",
+      "expression": "talk",
+      "text": "ENOUGH!!!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mmecha",
+      "boxState": "mmecha",
+      "expression": "talk",
+      "text": "I am done stooping down to your levels of idiocy!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mmecha",
+      "boxState": "mmecha",
+      "expression": "talk",
+      "text": ":Her parents were mere fools to try and stop me from taking their emeralds!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mmecha",
+      "boxState": "mmecha",
+      "expression": "talk",
+      "text": "If you'd had cooperated earlier, I would've granted you two a quick and merciful death!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mmecha",
+      "boxState": "mmecha",
+      "expression": "talk",
+      "text": "However, after your foolish attempts of opposing me..."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mmecha",
+      "boxState": "mmecha",
+      "expression": "talk",
+      "text": "It's only right that I make your deaths as slow and agonizing as possible!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mmecha",
+      "boxState": "mmecha",
+      "expression": "talk",
+      "text": "I will relish as I watch the lives fade from your eyes!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "bf",
+      "expression": "talk",
+      "text": "Bapoh Boobeebop Skeedahbee!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "gf",
+      "expression": "talk",
+      "text": "Bring it on, you robot master reject!"
+    }
+  ]
+}

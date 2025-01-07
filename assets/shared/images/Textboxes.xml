@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Textboxes.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mecha Textbox Open0000" x="0" y="0" width="1200" height="275"/>
+	<SubTexture name="Mecha Textbox Open0001" x="0" y="275" width="1200" height="275"/>
+	<SubTexture name="Mecha Textbox Open0002" x="0" y="550" width="1200" height="275"/>
+	<SubTexture name="Mecha Textbox Open0003" x="0" y="825" width="1200" height="275"/>
+	<SubTexture name="Mecha Textbox Normal0000" x="0" y="1100" width="1200" height="275"/>
+	<SubTexture name="Smecha Textbox Open0000" x="1200" y="0" width="1200" height="275"/>
+	<SubTexture name="Smecha Textbox Open0001" x="1200" y="275" width="1200" height="275"/>
+	<SubTexture name="Smecha Textbox Open0002" x="1200" y="550" width="1200" height="275"/>
+	<SubTexture name="Smecha Textbox Open0003" x="1200" y="825" width="1200" height="275"/>
+	<SubTexture name="Smecha Textbox Normal0000" x="1200" y="1100" width="1200" height="275"/>
+	<SubTexture name="Metallix Textbox Open0000" x="2400" y="0" width="1200" height="275"/>
+	<SubTexture name="Metallix Textbox Open0001" x="2400" y="275" width="1200" height="275"/>
+	<SubTexture name="Metallix Textbox Open0002" x="2400" y="550" width="1200" height="275"/>
+	<SubTexture name="Metallix Textbox Open0003" x="2400" y="825" width="1200" height="275"/>
+	<SubTexture name="Metallix Textbox Normal0000" x="2400" y="1100" width="1200" height="275"/>
+	<SubTexture name="BF Textbox Normal0000" x="0" y="1375" width="1200" height="275"/>
+	<SubTexture name="GF Textbox Normal0000" x="1200" y="1375" width="1200" height="275"/>
+</TextureAtlas>

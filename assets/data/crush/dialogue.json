@@ -1,0 +1,53 @@
+{
+  "dialogue": [
+    {
+      "speed": 0.05,
+      "portrait": "smecha",
+      "boxState": "smecha",
+      "expression": "talk",
+      "text": "Grrrrr! You pieces of trash!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "smecha",
+      "boxState": "smecha",
+      "expression": "talk",
+      "text": "Unworthy life forms such as yourselves do not deserve the power of the emeralds."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "smecha",
+      "boxState": "smecha",
+      "expression": "talk",
+      "text": "It shall be mine, and mine alone."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "bf",
+      "expression": "talk",
+      "text": "Skoobee doobee doo!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "gf",
+      "expression": "talk",
+      "text": "I found this emerald first, buddy!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "smecha",
+      "boxState": "smecha",
+      "expression": "talk",
+      "text": "Fine! If you and your girlfriend are that eager to throw your lives away..."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "smecha",
+      "boxState": "smecha",
+      "expression": "talk",
+      "text": "Then so be it!"
+    }
+  ]
+}

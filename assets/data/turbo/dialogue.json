@@ -1,0 +1,123 @@
+{
+  "dialogue": [
+    {
+      "speed": 0.05,
+      "portrait": "mecha",
+      "boxState": "mecha",
+      "expression": "talk",
+      "text": "You, child!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "bf",
+      "expression": "talk",
+      "text": "Beepo?"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mecha",
+      "boxState": "mecha",
+      "expression": "talk",
+      "text": "Give me the Chaos Emerald."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "bf",
+      "expression": "talk",
+      "text": "Skah beepoh doobeedah boopah."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mecha",
+      "boxState": "mecha",
+      "expression": "talk",
+      "text": "Hmph! Another foolish insect with an inability to follow simple commands."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mecha",
+      "boxState": "mecha",
+      "expression": "talk",
+      "text": "I'll say it one more time..."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mecha",
+      "boxState": "mecha",
+      "expression": "talk",
+      "text": "Give. Me. The Chaos Emerald. NOW!!!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "bf",
+      "expression": "talk",
+      "text": "Skah. Beepoh. Doobeedah. Boopah."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mecha",
+      "boxState": "mecha",
+      "expression": "talk",
+      "text": "..."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mecha",
+      "boxState": "mecha",
+      "expression": "talk",
+      "text": "Do you speak a word of English?!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "gf",
+      "expression": "talk",
+      "text": "He says that he won't give you the emerald unless you beat him in a rap battle.?"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mecha",
+      "boxState": "mecha",
+      "expression": "talk",
+      "text": "So, you wish to challenge me for the emerald, huh?"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "bf",
+      "expression": "talk",
+      "text": "Dah!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mecha",
+      "boxState": "mecha",
+      "expression": "talk",
+      "text": "Hmmhmmhmmhmm! Very well. Have it your way."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mecha",
+      "boxState": "mecha",
+      "expression": "talk",
+      "text": "But know this, insect. I am not leaving here without that emerald."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mecha",
+      "boxState": "mecha",
+      "expression": "talk",
+      "text": "So I will just have to liberate it from your mutilated carcass."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "mecha",
+      "boxState": "mecha",
+      "expression": "talk",
+      "text": "Once I destroy you at your own game that is! Hahahahaha!"
+    }
+  ]
+}

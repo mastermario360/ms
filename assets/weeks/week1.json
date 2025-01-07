@@ -1,0 +1,18 @@
+{
+  "songs": [
+    ["Turbo", "Mecha", [146, 113, 253]],
+    ["Crush", "SMecha", [146, 113, 253]],
+    ["War", "Metallix", [146, 113, 253]]
+  ],
+
+  "weekCharacters": ["", "bf", ""],
+  "weekBackground": "stage",
+
+  "storyName": "",
+  "weekBefore": "tutorial",
+  "weekName": "Week 1",
+  "startUnlocked": true,
+
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}

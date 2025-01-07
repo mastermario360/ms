@@ -1,0 +1,53 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [450, 850],
+      "anim": "idle",
+      "fps": 24,
+      "name": "Metallix Dance Idle",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [440, 847],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "Metallix LEFT NOTE",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [510, 853],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "Metallix RIGHT NOTE",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [470, 850],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "Metallix DOWN NOTE",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [424, 861],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "Metallix UP NOTE",
+      "indices": []
+    }
+  ],
+  "image": "characters/Metallix_assets",
+  "scale": 1,
+  "sing_duration": 4,
+  "healthicon": "Metallix",
+  "position": [0, 0],
+  "camera_position": [-420, -420],
+  "flip_x": false,
+  "no_antialiasing": false,
+  "healthbar_colors": [216, 85, 142]
+}
